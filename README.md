@@ -1,13 +1,7 @@
-<div align="center">
-
 # Hi 👋, I'm Jaya Lahari Kadiyala
 
 ### Student at SRM University – AP  
 ### AI/ML Developer | Full Stack Developer
-
-</div>
-
----
 
 ## About Me
 
@@ -16,8 +10,6 @@
 - 🚀 Building scalable AI-powered applications
 - 📊 Interested in Machine Learning & Backend Systems
 - 🌱 Currently exploring Deep Learning & Generative AI
-
----
 
 # Programming Languages
 
@@ -32,8 +24,6 @@
   
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
-
----
 
 # Frameworks & Technologies
 
@@ -55,8 +45,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
-
 # AI / ML
 
 <p>
@@ -73,7 +61,6 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 </p>
 
----
 
 # Cloud & Tools
 
