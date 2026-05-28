@@ -1,7 +1,8 @@
-### Hi 👋, I'm Jaya Lahari Kadiyala
+### About Me
 
-#### Student at SRM University – AP  
-#### AI/ML Developer | Full Stack Developer
+-Hi 👋, I'm Jaya Lahari Kadiyala
+-Student at SRM University – AP  
+-AI/ML Developer | Full Stack Developer
 
 ### About Me
 
