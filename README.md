@@ -1,8 +1,9 @@
-### About Me
+### Hi 👋, I'm Jaya Lahari Kadiyala
 
--Hi 👋, I'm Jaya Lahari Kadiyala
--Student at SRM University – AP  
--AI/ML Developer | Full Stack Developer
+Student at SRM University – AP  
+AI/ML Developer | Full Stack Developer
+
+---
 
 ### About Me
 
@@ -10,7 +11,9 @@
 - 💻 Full Stack Developer with MERN Stack experience
 - 🚀 Building scalable AI-powered applications
 - 🌱 Exploring Deep Learning & Generative AI
+- 📚 Interested in RAG Systems & LLM Applications
 
+---
 
 ### Programming Languages
 
@@ -22,6 +25,7 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
+---
 
 ### Frameworks & Technologies
 
@@ -34,8 +38,11 @@
 <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
 </p>
 
+---
 
 ### AI / ML
 
@@ -46,8 +53,13 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/RAG-7B42BC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Apps-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Embeddings-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic_Search-blue?style=for-the-badge"/>
 </p>
 
+---
 
 ### Cloud & Tools
 
@@ -57,8 +69,10 @@
 <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/>
 <img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB_Compass-13AA52?style=for-the-badge"/>
 </p>
 
+---
 
 ### Connect with Me
 
