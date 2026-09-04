@@ -87,5 +87,5 @@
 ## 🟩 My Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Lahari468/Lahari468/output/pacman.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Lahari468/Lahari468/output/pacman-contribution-graph.svg" width="100%">
 </p>
