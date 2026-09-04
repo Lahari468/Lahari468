@@ -1,4 +1,4 @@
-## Hi 👋, I'm Jaya Lahari Kadiyala
+# 👋 Hi, I'm Jaya Lahari Kadiyala
 
 ### AI/ML Developer | Full Stack Developer | Student at SRM University–AP
 
@@ -10,7 +10,7 @@
 - 🚀 Love building real-world projects and continuously learning new technologies
 
 
-## Programming Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
@@ -20,8 +20,7 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-
-## Frameworks & Technologies
+## ⚛️ Frameworks & Technologies
 
 <p>
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
@@ -37,7 +36,7 @@
 </p>
 
 
-## AI / ML
+## 🤖 AI / ML
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
@@ -53,7 +52,7 @@
 </p>
 
 
-## Cloud & Tools
+## 🛠️ Cloud & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
@@ -61,18 +60,32 @@
 <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/>
 <img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB_Compass-13AA52?style=for-the-badge"/>
 </p>
 
 
-## Connect with Me
+## 📊 GitHub Stats
 
-<p>
-<a href="https://www.linkedin.com/in/jaya-lahari-kadiyala-ab2182291/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lahari468&show_icons=true&theme=dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahari468&theme=dark&hide_border=true"/>
+</p>
+
+## 📫 Reach Me
+
+<p align="center">
 
 <a href="mailto:kadiyalajayalahari@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/in/jaya-lahari-kadiyala-ab2182291/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+## 🟩 My Contribution Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Lahari468/Lahari468/output/pacman.svg" width="100%">
 </p>
