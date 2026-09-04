@@ -9,7 +9,6 @@
 - 🌱 Currently exploring Generative AI, RAG, and LLM Applications
 - 🚀 Love building real-world projects and continuously learning new technologies
 
----
 
 ## 💻 Programming Languages
 
@@ -20,8 +19,6 @@
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
-
----
 
 ## ⚛️ Frameworks & Technologies
 
@@ -76,7 +73,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahari468&theme=dark&hide_border=true"/>
 </p>
 
----
 
 ## 📫 Reach Me
 
@@ -92,7 +88,6 @@
 
 </p>
 
----
 
 ## 🟩 My Contribution Activity
 
